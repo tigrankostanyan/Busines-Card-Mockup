@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Mockup Studio</h1>
+  <h1>✨ Busines Card Mockup</h1>
   <p><strong>A professional tool for creating 3D mockups, business cards, and stunning screen presentations.</strong></p>
 </div>
 
