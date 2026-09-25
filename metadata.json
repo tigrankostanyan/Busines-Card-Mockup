@@ -1,0 +1,6 @@
+{
+  "name": "Mockup Studio",
+  "description": "Professional 3D diagonal screen spread mockup generator. Customize layouts, drop shadows, backdrops, and export high-resolution presentation mockups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
